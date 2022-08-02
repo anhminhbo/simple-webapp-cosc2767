@@ -14,9 +14,9 @@
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">Hello world for Minh Docker last changes!</h1>
+      <h1 class="display-4">Hello world for Minh Docker last changes please!</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
-      <p class="lead">This website is build automatically by Jenkins and Docker final!!! Yeahhhh!!!</p>
+      <p class="lead">This website is build automatically by Jenkins and Docker final please!!! Yeahhhh!!!</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
